@@ -1,0 +1,33 @@
+{
+    "lang": "fr",
+    "theme_color": "#4535C1",
+    "background_color": "#4535C1",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "main.html",
+    "name": "Todo-List",
+    "description": "Perme de creer une liste de chose a faire",
+    "short_name": "Todo-List",
+    "icons": [
+        {
+            "src": "img/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
